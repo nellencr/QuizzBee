@@ -1,4 +1,4 @@
-# QuizBee Game
+# `QuizBee Game`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -12,7 +12,7 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 
 ![screenshot](src/Components/images/screenQ2.png)
 
-## Built With
+## `Built With`
 
 - React.js,
 - CSS3,
@@ -21,11 +21,11 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 
 
 
-## Live Demo
+## `Live Demo`
  [Live Demo](https://serene-montalcini-664010.netlify.app)
 
 
-👤 **Author**
+👤 **`Author`**
 
 - Github: [@nellencr](https://github.com/nellencr)
 - Twitter: [Nella](https://twitter.com/Nella75794271)
