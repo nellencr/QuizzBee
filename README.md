@@ -6,8 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## what it does
 It is the frontend react-app game that allow the user to  choose a multiple choice words. the score is displayed at the end of the game and the user is allowed to restart the game using play again button.
 
-![screenshot](images/screenQ1.png) ![screenshot](images/screenQ1.png) 
+![screenshot](src/Components/images/screenQ1.png) 
 
+
+
+![screenshot](src/Components/images/screenQ2.png)
 
 ## Built With
 
