@@ -22,7 +22,7 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 
 
 ## `Live Demo`
- [Live Demo](https://serene-montalcini-664010.netlify.app)
+ [Live Demo](https://sharp-lumiere-f447a7.netlify.app)
 
 
 👤 **`Author`**
