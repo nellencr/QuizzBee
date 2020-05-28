@@ -28,3 +28,4 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
 - Email: nellencr@gmail.com"# QuizzBee" 
+"# Quizz-Game" 
