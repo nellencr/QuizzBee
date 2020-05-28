@@ -1,0 +1,40 @@
+.container {
+  padding: 30px;
+  width: 36%;
+  background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+  margin: 69px 80px 87px 67px;
+  border-radius: 7px;
+}
+
+
+body {
+  background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+  background-repeat: no-repeat;
+  min-height:100vh;
+}
+
+.title {
+  color:#044389;
+  font-size: 30px;
+  font-weight: 900;
+  padding:20px;
+}
+
+.score-board {
+  font-size: 30px;
+  color:green;
+  font-style:italic;
+}
+
+.playbtn {
+  width: 117px;
+  height: 42px;
+  border-radius: 6px;
+  color:#0A2E36;
+  background-color: #27FB6B;
+  font-size: 17px;
+  border: none;
+  font-weight:900;
+}
+
+
