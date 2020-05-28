@@ -22,7 +22,7 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 
 
 ## Live Demo
- [Live Demo](https://nellencr.github.io/Recipe-App)
+ [Live Demo](https://serene-montalcini-664010.netlify.app)
 
 
 👤 **Author**
@@ -30,5 +30,4 @@ It is the frontend react-app game that allow the user to  choose a multiple choi
 - Github: [@nellencr](https://github.com/nellencr)
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
-- Email: nellencr@gmail.com"# QuizzBee" 
-"# Quizz-Game" 
+- Email: nellencr@gmail.com
